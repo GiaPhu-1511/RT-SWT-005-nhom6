@@ -1,0 +1,121 @@
+id;title;authors;year;venue;search_string
+1;LlamaRestTest: Effective REST API Testing with Small Language Models;"Kim, Myeongsoo; Sinha, Saurabh; Orso, Alessandro";2025;Proceedings of the ACM on Software Engineering;String A
+2;Test Case Generation for Requirements in Natural Language - An LLM Comparison Study;"Korraprolu, Brahma Reddy; Pinninti, Pavitra; Reddy, Y. Raghu";2025;Proceedings of the 18th Innovations in Software Engineering Conference;String A
+3;Automated Web Application Testing: End-to-End Test Case Generation with Large Language Models and Screen Transition Graphs;"LE, Khang Nguyen; NGUYEN, Minh Ngoc; NGUYEN, Hiep; VO, Trung; LUU, Son; BUI, Quan Minh; NOMURA, Shoshin; NGUYEN, Minh Le";2025;;String A
+4;A Review of Large Language Models for Automated Test Case Generation;"Celik, Arda; Mahmoud, Qusay H.";2025;Machine Learning and Knowledge Extraction;String A
+5;Harnessing Large Language Models for Automated Software Testing: A Leap Towards Scalable Test Case Generation;"Rehan, Shaheer; Al-Bander, Baidaa; Al-Said Ahmad, Amro";2025;Electronics;String A
+6;A Systematic Approach for Assessing Large Language Models' Test Case Generation Capability;"Chang, Hung-Fu; Shirazi, Mohammad Shokrolah";2025;;String A
+7;Automated User Story Generation with Test Case Specification Using Large Language Model;"Rahman, Tajmilur; Zhu, Yuecai";2024;;String A
+8;Large Language Model-based Test Case Generation for GP Agents;"Jorgensen, Steven; Nadizar, Giorgia; Pietropolli, Gloria; Manzoni, Luca; Medvet, Eric; O'Reilly, Una-May; Hemberg, Erik";2024;Proceedings of the Genetic and Evolutionary Computation Conference;String A
+9;Leveraging Large Language Models to Improve REST API Testing;"Kim, Myeongsoo; Stennett, Tyler; Shah, Dhruv; Sinha, Saurabh; Orso, Alessandro";2024;Proceedings of the 2024 ACM/IEEE 44th International Conference on Software Engineering: New Ideas and Emerging Results;String A
+10;Apitestgenie: Automated api test generation through generative ai;"Pereira, André; Lima, Bruno; Faria, Jo?o Pascoal";2024;arXiv preprint arXiv:2409.03838;String A
+11;Automating rest api postman test cases using llm;"Sri, S. Deepika; Raman, Raja CSP; Rajagopal, Gopinath; Chan, S. Taranath";2024;arXiv preprint arXiv:2404.10678;String A
+12;Automated Test Case Generation for Software APIs Using Reinforcement Learning;Wang, Nan;2026;;String A
+13;Evaluating LLMs on Sequential API Call Through Automated Test Generation;"Huang, Yuheng; Song, Jiayang; Song, Da; Ji, Zhenlan; Wang, Wenhan; Wang, Shuai; Ma, Lei";2025;arXiv preprint arXiv:2507.09481;String A
+14;OpenAI for OpenAPI: Automated generation of REST API specification via LLMs;"Chen, Hao; Li, Yunchun; Chen, Chen; Lin, Fengxu; Li, Wei";2026;arXiv preprint arXiv:2601.12735;String A
+15;Combining TSL and LLM to Automate REST API Testing: A Comparative Study;"Barradas, Thiago; Paes, Aline; Neves, Vânia de Oliveira";2025;arXiv preprint arXiv:2509.05540;String A
+16;Automating Software and Vulnerability Testing in REST APIs with Large Language Models;Strauß, Diana;2025;;String A
+17;RESTestBench: A Benchmark for Evaluating the Effectiveness of LLM-Generated REST API Test Cases from NL Requirements;"Kogler, Leon; Hangler, Stefan; Ehrhart, Maximilian; Dornauer, Benedikt; Wuersching, Roland; Schrammel, Peter";2026;arXiv preprint arXiv:2604.25862;String A
+18;APITestGenie: Generating Web API Tests from Requirements and API Specifications with LLMs;"Pereira, André; Lima, Bruno; Faria, Jo?o Pascoal";2026;arXiv preprint arXiv:2604.02039;String A
+19;LRASGen: LLM-based RESTful API Specification Generation;"Deng, Sida; Huang, Rubing; Zhang, Man; Cui, Chenhui; Towey, Dave; Wang, Rongcun";2026;ACM Transactions on Software Engineering and Methodology;String A
+20;MASTEST: A LLM-Based Multi-Agent System For RESTful API Tests;"Han, Xiaoke; Zhu, Hong";2025;arXiv preprint arXiv:2511.18038;String A
+21;An Intelligent Agent for Automated Test Generation from OpenAPI Specifications;"Vilela, Ricardo F.; de Andrade, Stev?o Alves; Santos, Eduardo BF; Silva, Williamson; Valle, Pedro HD";2025;Workshop sobre Bots na Engenharia de Software (WBOTS);String A
+22;Effective Automation of Black-Box Testing for REST APIs with Machine Learning and Language Models;Kim, Myeongsoo;2025;;String A
+23;Exploring LLM-Powered Software Testing: A Study on Multi-Agent Systems for REST APIs;Sidiropoulos, Efstathios;2025;;String A
+24;Automated REST API Black-box Test Generation in Practice: An Experience Report from Industry;"Corradini, Davide; Shin, Seung Yeob; Bianculli, Domenico";;19th IEEE International Conference on Software Testing, Verification and Validation (ICST);String A
+25;You can rest now: Automated specification inference and black-box testing of restful apis with large language models;"Decrop, Alix; Perrouin, Gilles; Papadakis, Mike; Devroey, Xavier; Schobbens, Pierre-Yves";2024;;String A
+26;Systematic Literature Review: RESTful API Testing Using Machine Learning Techniques;"Otieno, Bill A.; Araka, Eric";2025;Journal of the Kenya National Commission for UNESCO;String A
+27;Ai-driven rest api testing: Api automation and testing;Navarathna Mudiyanselage, Isuri;2024;;String A
+28;An Approach to Generating API Test Scripts Using GPT;"Nguyen, Cuong; Bui, Huy; Nguyen, Vu; Nguyen, Tien";2023;Proceedings of the 12th International Symposium on Information and Communication Technology;String A
+29;REST API Fuzzing Using API Dependencies and Large Language Models;"Liu, Chien-Hung; Chen, Shu-Ling; Li, Kuang-Yao";2026;Engineering Proceedings;String A
+30;A framework for testing and adapting rest apis as llm tools;"Bandlamudi, Jayachandu; Chaudhuri, Ritwik; Gantayat, Neelamadhav; Ghosh, Sambit; Mukherjee, Kushal; Agarwal, Prerna; Sindhgatta, Renuka; Mehta, Sameep";2025;arXiv preprint arXiv:2504.15546;String A
+31;From Requirements to Executable Tests: LLM-Based System Test Generation for REST APIs;"Kochanovskis, Jaroslav; Slotkien?, Asta";2026;Vilnius University Open Series;String A
+32;Automated Test Data and Test Oracle Generation for REST APIs;Valenzuela, Juan Carlos Alonso;2025;;String A
+33;Generating REST API Tests With Descriptive Names;"Garrett, Philip; Galeotti, Juan P.; Arcuri, Andrea; Poth, Alexander; Rrjolli, Olsi";2025;arXiv preprint arXiv:2512.01690;String A
+34;A Multi-Agent Collaborative Framework for API Automated Testing Based on Large Language Models;Malema, Bao;2026;Data Systems and Intelligence Quarterly;String A
+35;You Can REST Now: Automated REST API Documentation and Testing via LLM-Assisted Request Mutations;"Decrop, Alix; Devroey, Xavier; Papadakis, Mike; Schobbens, Pierre-Yves; Perrouin, Gilles";2024;arXiv preprint arXiv:2402.05102;String A
+36;TestGPT-Server: Automatically Testing Microservices with Large Language Models at ByteDance;"Wang, Jue; Chen, Shuxiang; Liu, Yu; Deng, Yuan; Zhang, Lei; Fu, Yuanchang; Liu, Bo";2025;Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering;String A
+37;Development and verification of an orchestration architecture of AI agents for automated API testing with a unified representation of requirements;Moskalenko, Maksym;2026;Technology audit and production reserves;String A
+38;Using LLM for Mining and Testing Constraints in API Testing;"Huynh, Hieu; Le, Quoc-Tri; Nguyen, Tien N.; Nguyen, Vu";2024;Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering;String A
+39;DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning;"Corradini, Davide; Montolli, Zeno; Pasqua, Michele; Ceccato, Mariano";2024;Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering;String A
+40;APICaseGen: Combining LLMs and conventional approaches for automated test-case generation for web APIs;"Schönfeld, Robert; Karol, Sven";;;String A
+41;Assessing REST API Test Generation Strategies with Log Coverage;"Reinikainen, Nana; Mäntylä, Mika; Wang, Yuqing";2026;arXiv preprint arXiv:2604.07073;String A
+42;Dyner: Optimized test case generation for representational state transfer (rest) ful application programming interface (api) fuzzers guided by dynamic error responses;"Chen, Juxing; Chen, Yuanchao; Pan, Zulie; Chen, Yu; Li, Yuwei; Li, Yang; Zhang, Min; Shen, Yi";2024;Electronics;String A
+43;RESTifAI: LLM-Based Workflow for Reusable REST API Testing;"Kogler, Leon; Ehrhart, Maximilian; Dornauer, Benedikt; Enoiu, Eduard Paul";2025;arXiv preprint arXiv:2512.08706;String A
+44;Technology adoption performance evaluation applied to testing industrial REST APIs;"Poth, Alexander; Rrjolli, Olsi; Arcuri, Andrea";2025;Automated Software Engineering;String A
+45;Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing;"Huynh, Hieu; Le, Tri; Nguyen, Vu; Nguyen, Tien N.";2025;arXiv e-prints;String A
+46;Specrawler: Generating openapi specifications from api documentation using large language models;"Lazar, Koren; Vetzler, Matan; Uziel, Guy; Boaz, David; Goldbraich, Esther; Amid, David; Anaby-Tavor, Ateret";2024;arXiv preprint arXiv:2402.11625;String A
+47;Agentic LLMs for REST API Test Amplification: A Comparative Study Across Cloud Applications;"Besjes, Jarne; Nooyens, Robbe; Bardakci, Tolgahan; Beyazit, Mutlu; Demeyer, Serge";2025;arXiv preprint arXiv:2510.27417;String A
+48;Automating quality assurance for industrial web applications: a hybrid approach using API fuzzing and agentic UI testing;Wu, Yuewei;2025;;String A
+49;Enhancing REST API Testing with NLP Techniques;"Kim, Myeongsoo; Corradini, Davide; Sinha, Saurabh; Orso, Alessandro; Pasqua, Michele; Tzoref-Brill, Rachel; Ceccato, Mariano";2023;Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis;String A
+50;Test Oracle Generation for REST APIs;"Alonso, Juan C.; Ernst, Michael D.; Segura, Sergio; Ruiz-Cortés, Antonio";2026;ACM Transactions on Software Engineering and Methodology;String A
+51;LLM-Enhanced Derivation of the Maturity Level of RESTful Services;"Smardas, Antonios; Kritikos, Kyriakos";2025;Advanced Information Systems Engineering Workshops;String A
+52;Analysis and automation in service-based systems: test generation and healing for non-regression and security;Sue, Jarod;2025;;String A
+53;Automated Management of Inter-Parameter Dependencies in Web APIs. The IDL Tool Suite;Alias Barakat, Saman;2025;;String A
+54;PhD Thesis Summary;"PA?CA, Emil-Marian; MATEI, Eng Oliviu";;;String A
+55;Dynamic analysis of inter-endpoint dependencies in RESTful APIs;Gerokonstantis, Dimitrios-Dafid;2025;;String A
+56;BOSQTGEN: Breaking the Sound Barrier in Test Generation;"Asif, S. M.; Chen, James; Barr, Earl T.; Marron, Mark";2025;arXiv preprint arXiv:2510.19777;String A
+57;AI-Assisted Hybrid Vulnerability Analytics for RESTful APIs: Static Rule Matching, Dynamic Fuzzing, and Exploitability Validation;"Raghavan, Karthik; Padmanabhan, Nivetha; Venkatesh, Arjun";2023;Journal of AI Analytics and Applications;String A
+58;Log-based, Business-aware REST API Testing;"Yang, Ding; Qian, Ruixiang; Wei, Zhao; Chen, Zhenyu; Fang, Chunrong";2026;arXiv preprint arXiv:2604.08007;String A
+59;Meta-fair: Ai-assisted fairness testing of large language models;"Romero-Arjona, Miguel; Parejo, José A.; Alonso, Juan C.; Sánchez, Ana B.; Arrieta, Aitor; Segura, Sergio";2026;Information and Software Technology;String A
+60;The IDL tool suite: Specifying and analyzing inter-parameter dependencies in web APIs;"Barakat, Saman; Martin-Lopez, Alberto; Müller, Carlos; Segura, Sergio; Ruiz-Cortés, Antonio";2025;SoftwareX;String A
+61;SBFT Tool Competition 2026: REST League;"Pasqua, Michele; Corradini, Davide; Mari, Sofia; Ceccato, Mariano";2026;Proceedings of the 19th IEEE/ACM International Workshop on Search-Based and Fuzz Testing (SBFT 2026);String A
+62;OASQuali: Automated Quality Analysis of OpenAPI Specifications;"Decrop, Alix; Vandeloise, Mikel; Heymans, Patrick; Perrouin, Gilles";2026;Proceedings of the 26th International Conference on Web Engineering, ICWE 2026;String A
+63;Detecting and Mitigating Flakiness in REST API Fuzzing;"Zhang, Man; Shen, Chongyang; Arcuri, Andrea; Yue, Tao";2026;arXiv preprint arXiv:2603.28452;String A
+64;Validation of inter-parameter dependencies in API gateways;"Barakat, Saman; Segura, Sergio";2025;Computer Standards & Interfaces;String A
+65;The Perfection Paradox: From Architect to Curator in AI-Assisted API Design;"Ahmad, Mak; Macvean, Andrew; Geewax, Jj; Karger, David R";2026;Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems;String A
+66;Implementación de pruebas automatizadas utilizando inteligencia artificial generativa para la API de autenticación y autorización basada en OPENID;Guiza Ortiz, Maria Camila;;;String A
+67;A Survey of Protocol Fuzzing;"Zhang, Xiaohan; Zhang, Cen; Li, Xinghua; Du, Zhengjie; Mao, Bing; Li, Yuekang; Zheng, Yaowen; Li, Yeting; Pan, Li; Liu, Yang; Deng, Robert";2025;ACM Computing Surveys;String A
+68;Vibe coding vs. agentic coding: Fundamentals and practical implications of agentic ai;"Sapkota, Ranjan; Roumeliotis, Konstantinos I.; Karkee, Manoj";2025;arXiv preprint arXiv:2505.19443;String A
+69;AI and Microservices: Integrating AI into API Design and Distributed Microservice Architecture;"Pandiya, Dileep Kumar; Charankar, Nilesh";2025;;String A
+70;Deliverable D 4.2;"Paniagua, Cristina; Moutinho, Filipe";;;String A
+71;Prompt-Based REST API Test Amplification in Industry: An Experience Report;"Bardakci, Tolgahan; Faes, Andreas; Beyazit, Mutlu; Demeyr, Serge";2026;arXiv;String B
+72;A First Look at Bugs in LLM Inference Engines;"Liu, Mugeng; Zhong, Siqi; Bi, Weichen; Zhang, Yixuan; Chen, Zhiyang; Chen, Zhenpeng; Liu, Xuanzhe; Ma, Yun";2026;;String B
+73;Enhancing Automated Unit Test Generation with Large Language Models: A Systematic Literature Review;"Zhang, Junwei; Hu, Xing; Gao, Cuiyun; Xia, Xin; Li, Shanping";2026;;String B
+74;Fuzzing REST APIs in Industry: Necessary Features and Open Problems;"Arcuri, Andrea; Poth, Alexander; Rrjolli, Olsi; Garrett, Philip; Galeotti, Juan P.";2026;arXiv;String B
+75;Real Faults in Model Context Protocol (MCP) Software: a Comprehensive Taxonomy;"Taraghi, Mina; Morovati, Mohammad Mehdi; Khomh, Foutse";2026;arXiv;String B
+76;LLM-Based Robustness Testing of Microservice Applications: An Empirical Study;"Tigulla, Hrushitha Goud; Vieira, Marco";2026;arXiv;String B
+77;SAINT: Service-level Integration Test Generation with Program Analysis and LLM-based Agents;"Pan, Rangeet; Pavuluri, Raju; Huang, Ruikai; Krishna, Rahul; Stennett, Tyler; Orso, Alessandro; SInha, Saurabh";2026;arXiv;String B
+78;WFC/WFD: Web Fuzzing Commons, Dataset and Guidelines to Support Experimentation in REST API Fuzzing;"Sahin, Omur; Zhang, Man; Arcuri, Andrea";2025;arXiv;String B
+79;REST API Functional Tester;"Saha, Diptikalyan; Sondhi, Devika; Haldar, Swagatam; Sinha, Saurabh";2025;ACM;String B
+80;Large Language Models for Software Testing: A Research Roadmap;"Augusto, Cristian; Bertolino, Antonia; Angelis, Guglielmo De; Lonetti, Francesca; Morán, Jesús";2025;arXiv;String B
+81;Enhancing LLM-Based Bug Reproduction for Android Apps via Pre-Assessment of Visual Effects;"Xiao, Xiangyang; Huang, Huaxun; Wu, Rongxin";2026;arXiv;String B
+82;When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure;"Ma, Jie; He, Ningyu; Xi, Jinwen; Xing, Mingzhe; Liu, Liangxin; Luo, Jiushenzi; Fu, Xiaopeng; Wu, Chiachih; Wang, Haoyu; Gao, Ying; Yue, Yinliang";2026;;String B
+83;Use of GNN to automate SSDLC Alert Dismissal Review Process: Study on the Usage & Efficacy of Novel Deep Learning Techniques in Appsec;Raha, Devjyoti;2026;Springer Fachmedien Wiesbaden;String B
+84;Cast: Automated Resilience Testing for Production Cloud Service Systems;"Chen, Zhuangbin; Deng, Zhiling; Zhang, Kaiming; Liu, Yang; Cui, Cheng; Zhong, Jinfeng; Zheng, Zibin";2026;arXiv;String B
+85;VLM-Fuzz: Vision language model assisted recursive depth-first search exploration for effective GUI testing of android apps;"Demissie, Biniam Fisseha; Tun, Yan Naing; Shar, Lwin Khin; Ceccato, Mariano";2026;;String B
+86;Search-Based Software Engineering and AI Foundation Models: Current Landscape and Future Roadmap;"Sartaj, Hassan; Ali, Shaukat; Arcaini, Paolo; Arcuri, Andrea";2026;arXiv;String B
+87;A Survey of Reinforcement Learning for Software Engineering;"Wang, Dong; You, Hanmo; Zhu, Lingwei; Lin, Kaiwei; Chen, Zheng; Yang, Chen; Yu, Junji; Wang, Zan; Chen, Junjie";2025;arXiv;String B
+88;Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation;"Chang, Pengyu; Fang, Yixiong; Chen, Silin; Shi, Yuling; Shen, Beijun; Gu, Xiaodong";2026;arXiv;String B
+89;LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance;"Wang, Chenxu; Liu, Tianming; Zhao, Yanjie; Yang, Minghui; Wang, Haoyu";2025;;String B
+90;Efficacy of Fine-Tuned Large Language Model in CT Protocol Assignment as Clinical Decision-Supporting System;"Kanemaru, Noriko; Yasaka, Koichiro; Okimoto, Naomasa; Sato, Mai; Nomura, Takuto; Morita, Yuichi; Katayama, Akira; Kiryu, Shigeru; Abe, Osamu";2025;;String B
+91;CoverUp: Effective High Coverage Test Generation for Python;"Altmayer Pizzorno, Juan; Berger, Emery D.";2025;;String B
+92;How well LLM-based test generation techniques perform with newer LLM versions?;"Konstantinou, Michael; Degiovanni, Renzo; Papadakis, Mike";2026;arXiv;String B
+93;An initial investigation of ChatGPT unit test generation capability;"Guilherme, Vitor; Vincenzi, Auri";2023;ACM;String B
+94;Enhancing Large Language Models for Text-to-Testcase Generation;"Alagarsamy, Saranya; Tantithamthavorn, Chakkrit; Takerngsaksiri, Wannita; Arora, Chetan; Aleti, Aldeida";2024;arXiv;String B
+95;Evaluating and Improving ChatGPT for Unit Test Generation;"Yuan, Zhiqiang; Liu, Mingwei; Ding, Shiji; Wang, Kaixin; Chen, Yixuan; Peng, Xin; Lou, Yiling";2024;;String B
+96;PR-Aware Automated Unit Test Generation: Challenges and Opportunities;"Haratian, Vahid; Akar, Atakan; cCakar, Berk; Tuzun, Eray";2026;;String B
+97;CasModaTest: A Cascaded and Model-agnostic Self-directed Framework for Unit Test Generation;"Ni, Chao; Wang, Xiaoya; Chen, Liushan; Zhao, Dehai; Cai, Zhengong; Wang, Shaohua; Yang, Xiaohu";2024;arXiv;String B
+98;Unit Test Generation using Generative AI : A Comparative Performance Analysis of Autogeneration Tools;"Bhatia, Shreya; Gandhi, Tarushi; Kumar, Dhruv; Jalote, Pankaj";2024;ACM;String B
+99;An empirical study of Android test generation tools in industrial cases;"Wang, Wenyu; Li, Dengfeng; Yang, Wei; Cao, Yurui; Zhang, Zhenwen; Deng, Yuetang; Xie, Tao";2018;ACM;String B
+100;Automating a Complete Software Test Process Using LLMs: An Automotive Case Study;"Wang, Shuai; Yu, Yinan; Feldt, Robert; Parthasarathy, Dhasarathy";2025;arXiv;String C
+101;Automated Test Generation for Medical Rules Web Services: A Case Study at the Cancer Registry of Norway;"Laaber, Christoph; Yue, Tao; Ali, Shaukat; Schwitalla, Thomas; Nygård, Jan F.";2023;ACM;String C
+102;Testing Medical Rules Web Services in Practice;"Laaber, Christoph; Ali, Shaukat; Schwitalla, Thomas; Nygård, Jan F.";2024;arXiv;String C
+103;MioHint: LLM-assisted Mutation for Whitebox API Testing;"Li, Jia; Shen, Jiacheng; Su, Yuxin; Lyu, Michael R.";2026;arXiv;String C
+104;Utilizing API Response for Test Refinement;"Sondhi, Devika; Sharma, Ananya; Saha, Diptikalyan";2025;arXiv;String C
+105;Systematic Mapping of Empirical Research on LLM-based Test Generation: Research Gaps, Methodologies, and Emerging Trends;"Marques Prates, Jorge; Jimez, Bruno Oliveira Costa; Melo, Silvana Morita; Souza, Igor Roberto Michalski; Garcia, Rogério Eduardo";;;String C
+106;Refining Tests through API Response Evaluation;"Sondhi, Devika; Sharma, Ananya; Saha, Diptikalyan";2026;ACM;String C
+107;Automated Unit Test Generation for the Google Test Framework Using Large Language Models: An Industrial Case Study;Lundberg, Albert;2024;;String C
+108;LLM-enhanced evolutionary test generation for untyped languages;"Yang, Ruofan; Xu, Xianghua; Wang, Ran";2025;;String C
+109;A quantized LLM driven framework for automated software testing;Ahmed, Rashed;2026;;String C
+110;The Use of Large Language Models in Mobile Application Testing;Salmi, Sara;2024;;String C
+111;Combinatorial methods and search with generative AI for real-world testing and API synthesis;Zhong, Hua;2025;;String C
+112;Multi-Agent LLM-based Metamorphic Testing for REST APIs;"Khan, Shehroz; Mughees, Abdullah; Sudheerbabu, Gaadha; Ahmad, Tanwir; Truscan, Dragos";2026;arXiv;String C
+113;Advancements and Challenges in Using AI and ML to Improve API Testing Efficiency, Coverage, and Effectiveness;Jangam, Sandeep Kumar;2024;;String C
+114;Leveraging large language models for automated end-to-end testing: an empirical analysis of automated testing tools through experiments;Ihegbu, Simon;2026;;String C
+115;LogiAgent: Automated Logical Testing for REST Systems with LLM-Based Multi-Agents;"Zhang, Ke; Zhang, Chenxi; Wang, Chong; Zhang, Chi; Wu, YaChen; Xing, Zhenchang; Liu, Yang; Li, Qingshan; Peng, Xin";2025;arXiv;String C
+116;Enhancing Differential Testing with LLMs for Testing Deep Learning Libraries;"Li, Meiziniu; Li, Dongze; Liu, Jianmeng; Cao, Jialun; Tian, Yongqiang; Cheung, Shing-Chi";2026;;String C
+117;Automating Invariant Filtering: Leveraging LLMs to Streamline Test Oracle Generation;"Fischer, Stefan; Klammer, Claus";2025;Springer Nature Switzerland;String C
+118;From REST to MCP: An empirical study of API wrapping and automated server generation for LLM agents;"Mastouri, Meriem; Ksontini, Emna; Barrak, Amine; Kessentini, Wael";2025;;String C
+119;PrediQL: Automated Testing of GraphQL APIs with LLMs;"Liu, Shaolun; Marefat, Sina; Tsai, Omar; Chen, Yu; Deng, Zecheng; Wang, Jia; Tayebi, Mohammad A.";2025;arXiv;String C
+120;Generalizing Test Cases for Comprehensive Test Scenario Coverage;"Qi, Binhang; Lin, Yun; Weng, Xinyi; Liu, Chenyan; Sun, Hailong; Fraser, Gordon; Dong, Jin Song";2026;arXiv;String C
