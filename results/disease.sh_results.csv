@@ -1,0 +1,7 @@
+service,endpoint,status_wo_feedback,status_w_feedback
+disease.sh,/v3/covid-19/all,200,200
+disease.sh,/v3/covid-19/countries/{country},200,200
+disease.sh,/v3/covid-19/states/{states},200,200
+disease.sh,/v3/covid-19/historical/{country},200,200
+disease.sh,/v3/covid-19/vaccine/coverage/countries/{country},200,200
+disease.sh,/v3/influenza/cdc,404,404

@@ -1,0 +1,5 @@
+service,endpoint,status_wo_feedback,status_w_feedback
+GitLab,/projects,200,200
+GitLab,/users,403,403
+GitLab,/projects/{id},200,200
+GitLab,/groups/{id},200,200
