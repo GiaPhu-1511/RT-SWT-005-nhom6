@@ -1,0 +1,17 @@
+request_id,endpoint,status,final_code,final_response,timestamp
+0,/v2/check,failed_after_retries,,"LLM API Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: e351417a********************e063. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",2026-06-29T12:45:01.599880
+1,/v2/languages,failed_after_retries,,"LLM API Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: e351417a********************e063. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",2026-06-29T12:45:01.789253
+0,/v2/check,failed_after_retries,,"LLM API Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: e351417a********************e063. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",2026-06-29T12:46:47.083526
+1,/v2/languages,failed_after_retries,,"LLM API Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: e351417a********************e063. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",2026-06-29T12:46:47.256603
+0,/v2/check,failed_after_retries,,"LLM API Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",2026-06-29T12:51:54.017598
+1,/v2/languages,failed_after_retries,,"LLM API Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",2026-06-29T12:51:58.773087
+/v2/check,failed,,2026-06-29T14:03:52.055777
+/v2/languages,failed,,2026-06-29T14:03:53.898358
+/v2/check,failed,,2026-06-29T14:05:43.283358
+/v2/languages,failed,,2026-06-29T14:05:44.990395
+/v2/check,failed,,2026-06-29T14:07:32.565749
+/v2/languages,failed,,2026-06-29T14:07:32.760175
+/v2/check,failed,,2026-06-29T14:10:10.290069
+/v2/languages,failed,,2026-06-29T14:10:10.496158
+/v2/check,failed,,2026-06-29T14:10:15.083402
+/v2/languages,failed,,2026-06-29T14:10:15.270447

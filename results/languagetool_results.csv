@@ -1,0 +1,3 @@
+service,endpoint,status_wo_feedback,status_w_feedback
+languagetool,/v2/check,200,200
+languagetool,/v2/languages,200,200

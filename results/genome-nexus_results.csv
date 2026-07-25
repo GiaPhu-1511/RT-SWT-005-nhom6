@@ -1,0 +1,4 @@
+service,endpoint,status_wo_feedback,status_w_feedback
+genome-nexus,/annotation/{variant},200,200
+genome-nexus,/ensembl/canonical-transcript/hgnc/{hgncSymbol},200,200
+genome-nexus,/pfam/domain/{accession},200,200

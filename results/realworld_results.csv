@@ -1,0 +1,5 @@
+service,endpoint,status_wo_feedback,status_w_feedback
+realworld,/api/articles,200,200
+realworld,/api/tags,200,200
+realworld,/api/users,201,201
+realworld,/api/articles/{slug},404,404
