@@ -1,9 +1,9 @@
-[Tên đề tài ngắn gọn]
+RUNTIME FEEDBACK FOR LLM-BASED API TESTING
 
 Topic: RT-SWT-005
 Môn: SWT301 – Research-Based Learning
 Nhóm: NHóm 6 – [Học kỳ 5, 2026]
-Thành viên: Võ Gia Phú (PL + MS), Lê Văn Lãm (DG), Đào Nguyễn Quốc Huy (), Nguyễn Thị Hoa (RW) 
+Thành viên: Võ Gia Phú (PL + MS), Lê Văn Lãm (DG), Đào Nguyễn Quốc Huy (RL), Nguyễn Thị Hoa (RW + MS) 
 GV hướng dẫn: L.T.Q.Chi
 
 Tiến độ
