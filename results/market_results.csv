@@ -1,0 +1,14 @@
+service,endpoint,status_wo_feedback,status_w_feedback
+market,/api/market/endpoint_1,500,500
+market,/api/market/endpoint_2,500,500
+market,/api/market/endpoint_3,403,403
+market,/api/market/endpoint_4,403,403
+market,/api/market/endpoint_5,500,500
+market,/api/market/endpoint_6,500,500
+market,/api/market/endpoint_7,403,403
+market,/api/market/endpoint_8,403,403
+market,/api/market/endpoint_9,500,500
+market,/api/market/endpoint_10,500,500
+market,/api/market/endpoint_11,500,500
+market,/api/market/endpoint_12,200,200
+market,/api/market/endpoint_13,200,200

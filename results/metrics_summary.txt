@@ -1,0 +1,6 @@
+=== KẾT QUẢ TỔNG HỢP & TRUNG BÌNH ===
+Total APIs Tested: 369
+Total 2XX (w/o -> w/): 139 -> 147
+Total 5XX (w/o -> w/): 76 -> 79
+Average 2XX % Increase: 10.1%
+Average 5XX % Increase: 5.0%
