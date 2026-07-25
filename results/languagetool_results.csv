@@ -1,3 +1,6 @@
 service,endpoint,status_wo_feedback,status_w_feedback
-languagetool,/v2/check,200,200
-languagetool,/v2/languages,200,200
+languagetool,/api/languagetool/endpoint_1,200,200
+languagetool,/api/languagetool/endpoint_2,403,403
+languagetool,/api/languagetool/endpoint_3,403,403
+languagetool,/api/languagetool/endpoint_4,500,500
+languagetool,/api/languagetool/endpoint_5,403,403

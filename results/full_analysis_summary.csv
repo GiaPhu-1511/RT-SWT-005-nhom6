@@ -1,0 +1,12 @@
+SUT,Total APIs,2XX (w/o feedback),2XX (w/ feedback),2XX % Increase,5XX (w/o feedback),5XX (w/ feedback),5XX % Increase
+CatWatch,23,8,8,0.0%,9,9,0.0%
+GitLab,99,29,31,6.9%,6,7,16.67%
+bibliothek,8,1,1,0.0%,0,0,0.0%
+disease.sh,31,24,24,0.0%,0,0,0.0%
+features-service,31,15,15,0.0%,16,16,0.0%
+genome-nexus,25,14,16,14.29%,9,9,0.0%
+languagetool,5,1,1,0.0%,1,1,0.0%
+market,13,2,2,0.0%,7,7,0.0%
+proxyprint-kitchen,115,40,40,0.0%,22,22,0.0%
+realworld,19,5,9,80.0%,6,8,33.33%
+Total / Average,369,139,147,10.1%,76,79,5.0%
